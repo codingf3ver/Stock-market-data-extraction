@@ -5,6 +5,7 @@ a merged master excel file consist of 160 sheets.
 
 # Installation guide
 ```
+install using >>> pip install -r requirements.txt
 •Note: This script will take atleast 10-12 minutes to web scrapped the data
 
 ```
